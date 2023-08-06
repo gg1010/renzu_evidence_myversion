@@ -2,7 +2,6 @@ config = {}
 config.target = false -- false use marker zones. only supports ox_target, qb-target
 config.jobs = {
 	['police'] = 1, -- grade
-	['swat'] = 1, -- grade
 }
 config.expiration = 3600 -- 1 hour 3600. expiration time of each evidence
 config.points = {
